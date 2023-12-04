@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SplunkConnector", "SplunkConnector\SplunkConnector.pyproj", "{ED0B592B-DDB9-4907-B2DA-BF6B6BA428CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0B592B-DDB9-4907-B2DA-BF6B6BA428CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0B592B-DDB9-4907-B2DA-BF6B6BA428CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4712EF-9D7B-4493-90BF-43771D35B765}
+	EndGlobalSection
+EndGlobal
